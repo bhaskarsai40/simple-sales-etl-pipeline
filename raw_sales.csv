@@ -1,0 +1,5 @@
+id,product,price,quantity,date
+1,Laptop,1000,1,2024-01-01
+2,Mouse,,2,2024/01/02
+3,Keyboard,50,-1,01-03-2024
+4,Monitor,300,1,2024-01-04
